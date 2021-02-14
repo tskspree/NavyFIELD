@@ -41,9 +41,9 @@ These are guidelines of popular battleships/battlecruisers measured from extensi
 | Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | KM_Andria Doria | 12.6"/44 Model 1936 | Unique | 78 | 2728 | 3220 |
-| BB3 | O Project II | 14.96"/52 SK C/34o L | 78 | 2782 | 3282 |
-| BB3 | Bismarck | 14.96"/52 SK C/34b L | 78 | 2818 | Untested |
-| EBB3 | Bismarck (1943) | 14.96"/52 SK C/34o L | 78 | 2782 | 3282 |
+| BB3 | O Project II | 14.96"/52 SK C/34o L | Light | 78 | 2782 | 3282 |
+| BB3 | Bismarck | 14.96"/52 SK C/34b L | Light | 78 | 2818 | Untested |
+| EBB3 | Bismarck (1943) | 14.96"/52 SK C/34o L | Light | 78 | 2782 | 3282 |
 | BB4 | H39 Class | 16"/52 SK C/34 L | Light | 80 | 2934 | Untested |
 | EBB4 | H41 Project | 16"/52 SK C/34 L | Light | 80 | 2934 | Untested |
 | EBB4.5 | J39 Class | 20"/48 SK C/40 Plan Z | Unique | 80 | 2972 | 3500 |
