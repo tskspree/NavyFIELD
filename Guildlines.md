@@ -90,3 +90,17 @@
 | BB6 | Project 24 | 18.1"/50 "Bolshevik" | Unique | 80 | 3086 | 3600 |
 | BB6.5 | Sovietsky Spiral | 16" Vickers Pattern B | Unique | 80 | 3100 | Untested |
 | BB7 | Krasnaya ploshchad | 18.1"/50 "Kremlin" | Unique | 80 | 3116 | Untested |
+
+### Regia Marina
+| Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
+| ----- | ----- | ----| ----- | --- | --------- | ------------------ |
+| PBB1 | RM_Andria Doria | 12.6"/44 Model 1936 | Unique | 76 | 2727 | Untested |
+| BB2 | Caio Duilio (1915) | 12"/45 K10 | Light | 76 | 2735 | Untested |
+| BB2 | Conte di Cavour (1915) | 12"/45 K10 | Light | 76 | 2735 | Untested |
+| BB4 | Caio Duilio (1937) | 12.6"/44 Model 1934 | Light | 76 | 2895 | 3405 |
+| BB4 | Conte di Cavour (1940) | 12.6"/44 Model 1934 | Light | 76 | 2895 | 3405 |
+| PBB2 | Italy Project41-B | 12.6"/44 Model 1934 | Light | 80 | 2895 | 3405 |
+| BB5 | Vittorio Veneto | 16.5"/50 Model 1934 | Unique | 78 | 2940 | 3438 |
+| EBB5 | Cesare Borgia | 16.5"/50 Model 1945 | Unique | 78 | 2940 | 3438 |
+| BB6 | Progetto UP41 | 18"/50 Model 1934 | Unique | 80 | 3027 | 3527 |
+| BB6.5 | Impero | 16.5"/50 Model 1937 | Unique | 80 | 3047 | 3559 |
