@@ -62,3 +62,17 @@
 | BB6 | Amagi | 20.5"/45 Type 98B | Unique | 80 | 3046 | 3530 |
 | BB6.5 | Yamato (1945) | 18.1"/45 Type 95 | Unique | 80 | 3060 | Untested |
 | BB7 | Izmi | 20.5"/45 Type 98C | Unique | 80 | 3090 | Untested |
+
+### Marine Nationale
+| Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
+| ----- | ----- | ----| ----- | --- | --------- | ------------------ |
+| PBB1 | MN_Dunkerque | 12.2"/50 Model 1940 | Unique | 80 | 2727 | Untested |
+| EBB2 | Le Havre | 12"/45 cal Model 1906 | Light | 75 | 2786 | Untested |
+| BB4 | Richelieu | 14.96"/45 cal Model 1935 | Light | 80 | 2857 | 3375 |
+| PBB2 | Richelieu (1951) | 14.96"/45 cal Model 1935 | Light | 80 | 2857 | 3375 |
+| EBB4.5 | Jean Bart | 18.89"/45 cal Model 1942 | Unique | 80 | 2931 | 3449 |
+| BB5 | Jean Bart | 18.89"/45 cal Model 1936 | Unique | 80 | 2931 | 3449 |
+| EBB5 | Thermidor | 18.89"/45 cal Model 1942 | Unique | 80 | 2931 | 3449 |
+| BB6 | Charlemagne | 18.89"/45 cal Model 1945 | Unique | 80 | 3011 | 3525 |
+| BB6.5 | Bourgogne | 18.89"/45 cal Model 1938 | Unique | 80 | 3019 | 3535 |
+| BB7 | Versailles | 18.89"/45 cal Model 1945 II | Unique | 80 | 3021 | Untested |
