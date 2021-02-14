@@ -1,6 +1,3 @@
-## Main Gun Ranges
-These are guidelines of popular battleships/battlecruisers measured from extensive test firing with best-available FCS and typical main guns/shells. 
-
 ### U.S. Navy
 | Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
