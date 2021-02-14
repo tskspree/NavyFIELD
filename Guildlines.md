@@ -47,3 +47,18 @@
 | BB6 | Kaiser | 20"/45 SK C/40 | Unique | 80 | 3094 | 3620 |
 | BB6.5 | J44 Class | 18"/45 SK C/34b | Unique | 80 | 3110 | Untested |
 | BB7 | Admiral Scheer | 20"/45 SK C/40b | Unique | 80 | 3132 | Untested |
+
+### Imperial Navy
+| Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
+| ----- | ----- | ----| ----- | --- | --------- | ------------------ |
+| PBB1 | B65 Project | 12.2"/50 Model 1940 | Unique | 75 | 2750 | 3200 |
+| EBB3 | Mutsu | 16.1"/45 Type 90 L | Light | 80 | 2796 | 3276 |
+| EBB3.5 | Ashitaka | 14.2"/45 Type 6 | Unique | 75 | 2902 | 3384 |
+| BB4 | Yamato | 18.1"/45 Type 94 L | Light | 80 | 2910 | 3400 |
+| EBB4 | Musashi | 18.1"/45 Type 94 L | Light | 80 | 2910 | 3400 |
+| EBB4.5 | Shinano | 20.1"/45 A-150 | Unique | 80 | 2966 | 3448 |
+| BB5 | Super Yamato | 18.9"/45 Type 5 | Unique | 80 | 2958 | 3438 |
+| EBB5 | Mikawa | 18.9" SD-799 | Unique | 80 | 2960 | 3440 |
+| BB6 | Amagi | 20.5"/45 Type 98B | Unique | 80 | 3046 | 3530 |
+| BB6.5 | Yamato (1945) | 18.1"/45 Type 95 | Unique | 80 | 3060 | Untested |
+| BB7 | Izmi | 20.5"/45 Type 98C | Unique | 80 | 3090 | Untested |
