@@ -71,8 +71,22 @@
 | BB4 | Richelieu | 14.96"/45 cal Model 1935 | Light | 80 | 2857 | 3375 |
 | PBB2 | Richelieu (1951) | 14.96"/45 cal Model 1935 | Light | 80 | 2857 | 3375 |
 | EBB4.5 | Jean Bart | 18.89"/45 cal Model 1942 | Unique | 80 | 2931 | 3449 |
-| BB5 | Jean Bart | 18.89"/45 cal Model 1936 | Unique | 80 | 2931 | 3449 |
+| BB5 | Alsace | 18.89"/45 cal Model 1936 | Unique | 80 | 2931 | 3449 |
 | EBB5 | Thermidor | 18.89"/45 cal Model 1942 | Unique | 80 | 2931 | 3449 |
 | BB6 | Charlemagne | 18.89"/45 cal Model 1945 | Unique | 80 | 3011 | 3525 |
 | BB6.5 | Bourgogne | 18.89"/45 cal Model 1938 | Unique | 80 | 3019 | 3535 |
 | BB7 | Versailles | 18.89"/45 cal Model 1945 II | Unique | 80 | 3021 | Untested |
+
+### Soviet Navy
+| Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
+| ----- | ----- | ----| ----- | --- | --------- | ------------------ |
+| PBB1 | SN_Sevastopol | 12"/52 Pattern 1907 | Unique | 77 | 2713 | Untested |
+| BB3 | Kronshtadt | 12"/55 B-50 Pattern 1940 | Light | 77 | 2753 | Untested |
+| BB4 | Starlingrad | 16"/45 Pattern 1914 | Light | 80 | 2928 | 3444 |
+| EBB4 | Starlingrad (1953) | 16"/45 Pattern 1914 | Light | 80 | 2928 | 3444 |
+| BB5 | Sovietsky Soyuz | 16"/50 B-37 Pattern 1937 | Unique | 80 | 2966 | 3488 |
+| EBB5 | Proletariat | 16" TD-18 | Unique | 80 | 2966 | 3488 |
+| EBB5.5 | Moskva | 16" TD-18 | Unique | 80 | 2966 | 3488 |
+| BB6 | Project 24 | 18.1"/50 "Bolshevik" | Unique | 80 | 3086 | 3600 |
+| BB6.5 | Sovietsky Spiral | 16" Vickers Pattern B | Unique | 80 | 3100 | Untested |
+| BB7 | Krasnaya ploshchad | 18.1"/50 "Kremlin" | Unique | 80 | 3116 | Untested |
