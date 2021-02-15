@@ -11,6 +11,7 @@
 | BB5 | Montana | 16"/50 cal Mark 7 Mod 1 | Unique | 80 | 2936 | 3450 |
 | EBB5 | California | 18"/48 cal BH-427 | Unique | 80 | 2950 | 3468 |
 | BB6 | Nebraska | 18"/48 cal Mark 2 | Unique | 80 | 3064 | 3572 |
+| EBB6 | New Jersey | 18"/48 cal BD-119 | Unique | 80 | 3064 | 3572 |
 | BB6.5 | Oklahoma | 18"/48 cal Mark 3 | Unique | 80 | 3088 | 3598 |
 | BB7 | Connecticut | 18"/48 cal Mark 3 Mod 1 | Unique | 80 | 3110 | 3618 |
 
@@ -28,7 +29,8 @@
 | EBB5 | Duke of Edinburgh | 18" Mark II H-2 | Unique | 80 | 2958 | 3436 |
 | EBB5.5 | Duke of Cornwall | 18" Mark II BL | Unique | 80 | 2958 | 3436 |
 | BB6 | Queen Victoria | 18"/50 Mark II | Unique | 80 | 3040 | 3516 |
-| BB6.5 | Conqueror | 18"/50 Mark II RL | Unique | 80 | 3048 | Untested |
+| EBB6 | Thunderer | 18"/50 Mark II RL | Unique | 80 | 3040 | 3516 |
+| BB6.5 | Conqueror | 18"/45 Marks II | Unique | 80 | 3048 | Untested |
 | BB7 | King George VI | 18"/50 Mark III | Unique | 80 | 3088 | Untested |
 
 ### Kriegsmarine
@@ -45,6 +47,7 @@
 | EBB5 | Stresemann | 20"/48 KL-00 | Unique | 80 | 2972 | 3500 |
 | EBB5.5 | K39 Class | 20"/48 KL-00 | Unique | 80 | 2972 | 3500 |
 | BB6 | Kaiser | 20"/45 SK C/40 | Unique | 80 | 3094 | 3620 |
+| EBB6 | Kaiser | 20"/45 KC-WW | Unique | 80 | 3094 | 3620 |
 | BB6.5 | J44 Class | 18"/45 SK C/34b | Unique | 80 | 3110 | Untested |
 | BB7 | Admiral Scheer | 20"/45 SK C/40b | Unique | 80 | 3132 | Untested |
 
@@ -60,6 +63,7 @@
 | BB5 | Super Yamato | 18.9"/45 Type 5 | Unique | 80 | 2958 | 3438 |
 | EBB5 | Mikawa | 18.9" SD-799 | Unique | 80 | 2960 | 3440 |
 | BB6 | Amagi | 20.5"/45 Type 98B | Unique | 80 | 3046 | 3530 |
+| EBB6 | Atago | 20.5"/45 K-1942 | Unique | 80 | 3046 | 3530 |
 | BB6.5 | Yamato (1945) | 18.1"/45 Type 95 | Unique | 80 | 3060 | Untested |
 | BB7 | Izmi | 20.5"/45 Type 98C | Unique | 80 | 3090 | Untested |
 
@@ -89,6 +93,7 @@
 | EBB5 | Proletariat | 16" TD-18 | Unique | 80 | 2966 | 3488 |
 | EBB5.5 | Moskva | 16" TD-18 | Unique | 80 | 2966 | 3488 |
 | BB6 | Project 24 | 18.1"/50 "Bolshevik" | Unique | 80 | 3086 | 3600 |
+| EBB6 | Project 25 | 18.1" B-XT | Unique | 80 | 3086 | 3600 |
 | BB6.5 | Sovietsky Spiral | 16" Vickers Pattern B | Unique | 80 | 3100 | Untested |
 | BB7 | Krasnaya ploshchad | 18.1"/50 "Kremlin" | Unique | 80 | 3116 | Untested |
 
@@ -104,4 +109,5 @@
 | BB5 | Vittorio Veneto | 16.5"/50 Model 1934 | Unique | 78 | 2940 | 3438 |
 | EBB5 | Cesare Borgia | 16.5"/50 Model 1945 | Unique | 78 | 2940 | 3438 |
 | BB6 | Progetto UP41 | 18"/50 Model 1934 | Unique | 80 | 3027 | 3527 |
+| EBB6 | Roma | 18"/50 Model 1943 | Unique | 80 | 3027 | 3527 |
 | BB6.5 | Impero | 16.5"/50 Model 1937 | Unique | 80 | 3047 | 3559 |
