@@ -73,7 +73,7 @@
 | PBB1 | MN_Dunkerque | 12.2"/50 Model 1940 | Unique | 80 | 2727 | Untested |
 | EBB2 | Le Havre | 12"/45 cal Model 1906 | Light | 75 | 2786 | Untested |
 | BB4 | Richelieu | 14.96"/45 cal Model 1935 | Light | 80 | 2857 | 3375 |
-| PBB2 | Richelieu (1951) | 14.96"/45 cal Model 1935 | Light | 80 | 2857 | 3375 |
+| PBB3 | Richelieu (1951) | 14.96"/45 cal Model 1935 | Light | 80 | 2857 | 3375 |
 | EBB4.5 | Jean Bart | 18.89"/45 cal Model 1942 | Unique | 80 | 2931 | 3449 |
 | BB5 | Alsace | 18.89"/45 cal Model 1936 | Unique | 80 | 2931 | 3449 |
 | EBB5 | Thermidor | 18.89"/45 cal Model 1942 | Unique | 80 | 2931 | 3449 |
