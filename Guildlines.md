@@ -74,6 +74,7 @@
 | BB5 | Alsace | 18.89"/45 cal Model 1936 | Unique | 80 | 2931 | 3449 |
 | EBB5 | Thermidor | 18.89"/45 cal Model 1942 | Unique | 80 | 2931 | 3449 |
 | BB6 | Charlemagne | 18.89"/45 cal Model 1945 | Unique | 80 | 3011 | 3525 |
+| EBB6 | Clemenceau (1943) | 18.89"/45 cal Model 1944 | Unique | 80 | 3011 | 3525 |
 | BB6.5 | Bourgogne | 18.89"/45 cal Model 1938 | Unique | 80 | 3019 | 3535 |
 | BB7 | Versailles | 18.89"/45 cal Model 1945 II | Unique | 80 | 3021 | Untested |
 
