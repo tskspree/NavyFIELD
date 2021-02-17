@@ -41,3 +41,14 @@
 | SS5 | Kai-Kou Type | 21" Type95 | 51.48s |
 | SS6 | I 400 | 21" Type95 | 60.04s |
 | PSS | I 54 | 21" Type95 | 60.04s |
+
+### Marine Nationale
+| Class | Ship  | Torpedo Launcher | Reload Time |
+| ----- | ----- | ---------------- | ----------- |
+| SS1 | Sirene | 21.65" 24V | 46.64s |
+| SS2 | Requin | 21.65" 24V | 46.64s |
+| SS3 | Redoutable | 15.75" M26V | 49.32s |
+| SS4 | Argonaute | 15.75" M26V | 49.32s |
+| SS5 | Surcouf | 15.75" M26VR | 50.00s |
+| SS6 | L'Aurore | 21.65" 24VR | 56.00s |
+| PSS | Minerve | 21.65" 24VR | 56.00s |
