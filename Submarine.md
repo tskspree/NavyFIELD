@@ -63,3 +63,14 @@
 | SS5 | D | 21" ET-46 | 63.80s |
 | SS6 | K | 21" ET-46 | 66.96s |
 | PSS | L XI | 21" ET-46 | 66.96s |
+
+### Regia Marina
+| Class | Ship  | Torpedo Launcher | Reload Time |
+| ----- | ----- | ---------------- | ----------- |
+| SS1 | Bragadin | 53.3 cm (21") W 270 "F" | 38.00s |
+| SS2 | Perla | 53.3 cm (21") W 270 "F" | 38.00s |
+| SS3 | Argo | 53.3 cm (21") W 250 | 41.00s |
+| SS4 | Brin | 53.3 cm (21") W 250 | 41.00s |
+| SS5 | Marcello | 53.3 cm (21") W 270 "V" | 52.00s |
+| SS6 | Ammiraglio Cagni | 53.3 cm (21") W 270 "V" | 54.60s |
+| PSS | Liuzzi | 53.3 cm (21") W 270 "V" | 54.60s |
