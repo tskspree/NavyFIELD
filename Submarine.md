@@ -19,3 +19,14 @@
 | SS5 | M Type | 21" MarkIX** S | 48.20s |
 | SS6 | A Type | 21" MarkIX** S | 50.60s |
 | PSS | Safari | 21" MarkIX** S | 50.60s |
+
+### Kriegsmarine
+| Class | Ship  | Torpedo Launcher | Reload Time |
+| ----- | ----- | ---------------- | ----------- |
+| SS1 | Type - II | 21" G7a T1 S | 30.60s |
+| SS2 | Type - VIIA | 21" G7a T1 S | 30.60s |
+| SS3 | Type - VIIC | 21" G7e T2 S | 33.60s |
+| SS4 | Type U - Flak I | 21" G7e T2 S | 33.60s |
+| SS5 | Type - IX D2 | 21" G7e T4 S | 46.28s |
+| SS6 | Type - XXI | 21" G7e T4 S | 48.60s |
+| PSS | Type - IX C/40 | 21" G7e T4 S | 48.60s |
