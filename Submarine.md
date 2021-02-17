@@ -16,6 +16,6 @@
 | SS2 | Oberon | 21" MarkIX S | 33.20s |
 | SS3 | P Type | 21" MarkVIII** S | 36.60s |
 | SS4 | R Type | 21" MarkVIII** S | 36.60s |
-| SS5 | M Type | 21" MarkIX** S | ? |
+| SS5 | M Type | 21" MarkIX** S | 48.20s |
 | SS6 | A Type | 21" MarkIX** S | 50.60s |
 | PSS | Safari | 21" MarkIX** S | 50.60s |
