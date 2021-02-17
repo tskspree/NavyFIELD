@@ -30,3 +30,14 @@
 | SS5 | Type - IX D2 | 21" G7e T4 S | 46.28s |
 | SS6 | Type - XXI | 21" G7e T4 S | 48.60s |
 | PSS | Type - IX C/40 | 21" G7e T4 S | 48.60s |
+
+### Imperial Navy
+| Class | Ship  | Torpedo Launcher | Reload Time |
+| ----- | ----- | ---------------- | ----------- |
+| SS1 | Vickers L3 | 21" Type15 | 34.00s |
+| SS2 | Junsen Type - I | 21" Type15 | 34.00s |
+| SS3 | Kaidai - VIA | 21" Type88 | 37.40s |
+| SS4 | HEI Type I | 21" Type88 | 37.40s |
+| SS5 | Kai-Kou Type | 21" Type95 | 51.48s |
+| SS6 | I 400 | 21" Type95 | 60.04s |
+| PSS | I 54 | 21" Type95 | 60.04s |
