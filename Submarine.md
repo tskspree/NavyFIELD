@@ -52,3 +52,14 @@
 | SS5 | Surcouf | 15.75" M26VR | 50.00s |
 | SS6 | L'Aurore | 21.65" 24VR | 56.00s |
 | PSS | Minerve | 21.65" 24VR | 56.00s |
+
+### Soviet Navy
+| Class | Ship  | Torpedo Launcher | Reload Time |
+| ----- | ----- | ---------------- | ----------- |
+| SS1 | Shch | 21" 53-39 | 45.00s |
+| SS2 | L | 21" 53-39 | 45.00s |
+| SS3 | P | 21" ET-80 | 47.00s |
+| SS4 | S | 21" ET-80 | 47.00s |
+| SS5 | D | 21" ET-46 | 63.80s |
+| SS6 | K | 21" ET-46 | 66.96s |
+| PSS | L XI | 21" ET-46 | 66.96s |
