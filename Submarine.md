@@ -74,3 +74,14 @@
 | SS5 | Marcello | 53.3 cm (21") W 270 "V" | 52.00s |
 | SS6 | Ammiraglio Cagni | 53.3 cm (21") W 270 "V" | 54.60s |
 | PSS | Liuzzi | 53.3 cm (21") W 270 "V" | 54.60s |
+
+### China Navy
+| Class | Ship  | Torpedo Launcher | Reload Time |
+| ----- | ----- | ---------------- | ----------- |
+| SS1 | Haigou | 21" G7a T1 S | 30.60s |
+| SS2 | Hailang | 21" G7e T2 S | 33.60s |
+| SS3 | Haibao | 21" Mark12 S | 32.60s |
+| SS4 | Haishi | 21" Mark15 S | 44.80s |
+| SS5 | Haixiang | 21" ET-46 | 66.96s |
+| SS6 | Hailong | 21" G7e T4 S | 46.28s |
+| PSS | 033-Type | 21" G7e T4 S | 46.28s |
