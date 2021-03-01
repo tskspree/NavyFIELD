@@ -24,8 +24,8 @@
 | EBB3 | Hood (1939) | 15"/42 cal Mark III L | Light | 75 | 2792 | Untested |
 | EBB3.5 | Anson | 14"/45 BL Mark III | Unique | 75 | 2878 | Untested |
 | BB4 | Lion I | 16"/45 cal Mark IV L | Light | 80 | 2842 | Untested |
-| BB4 | Vangurad | 15"/42 cal Mark IV L | Light | 80 | 2900 | 3386 |
-| EBB4 | Vanguard(1946) | 15"/42 cal RP12 SL | Unique | 80 | 2900 | 3386 |
+| BB4 | Vangurad | 15"/42 cal Mark IV L | Light | 80 | 2898 | 3386 |
+| EBB4 | Vanguard(1946) | 15"/42 cal RP12 SL | Unique | 80 | 2898 | 3386 |
 | BB5 | Lion II | 18"/45 Mark II | Unique | 80 | 2958 | 3436 |
 | EBB5 | Duke of Edinburgh | 18" Mark II H-2 | Unique | 80 | 2958 | 3436 |
 | EBB5.5 | Duke of Cornwall | 18" Mark II BL | Unique | 80 | 2958 | 3436 |
