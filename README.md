@@ -11,4 +11,4 @@ These are the boundaries of popular AA gun angles, including: angles at maximum 
 The reload time of the torpedo launchers is not available on the navyfield.com website. Find the list of all nations on [this table](Submarine.md).
 
 ## Experience Gain
-Sailor experience gain varies by ship type, attack score, team attack score, and boolean value of team-killing. This table in addition summarizes the percentage of experience gain by sailor-ship level difference, ceteris paribus. Credits to trainworld.us (source of data).
+Sailor experience gain varies by ship type, attack score, team attack score, and boolean value of team-killing. [This table](Exp.md) in addition summarizes the percentage of experience gain by sailor-ship level difference, ceteris paribus. Credits to trainworld.us (source of data).
