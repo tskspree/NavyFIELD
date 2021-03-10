@@ -14,4 +14,4 @@ The reload time of the torpedo launchers is not available on the navyfield.com w
 Sailor experience gain varies by ship type, attack score, team attack score, and boolean value of team-killing. [This table](Exp.md) in addition summarizes the percentage of experience gain by sailor-ship level difference, ceteris paribus. Credits to trainworld.us (source of data).
 
 ## China Navy Sailor Tree
-Since the release of the nation the sailor tree has never been published. [Here](CN_sailor_tree.md) is a trial version for reference.
+Since the release of the nation, the sailor tree has never been published. [Here](CN_sailor_tree.md) is a trial version for reference.
