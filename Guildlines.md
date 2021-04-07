@@ -32,7 +32,7 @@
 | BB6 | Queen Victoria | 18"/50 Mark II | Unique | 80 | 3040 | 3516 |
 | EBB6 | Thunderer | 18"/50 Mark II RL | Unique | 80 | 3040 | 3516 |
 | BB6.5 | Conqueror | 18"/45 Marks II | Unique | 80 | 3044 | Untested |
-| BB7 | King George VI | 18"/50 Mark III | Unique | 80 | 3088 | Untested |
+| BB7 | King George VI | 18"/50 Mark III | Unique | 80 | 3086 | Untested |
 
 ### Kriegsmarine
 | Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
