@@ -6,10 +6,10 @@
 - *Damage*: Shell Damage
 
 ### U.S. Navy
-| AA Gun | Max @ 100 | Golden | Max @ 0 | Limit @ 0 | Damage |
-| ------ | --------- | ------ | ------- | --------- | ----- |
-| 3"/70 cal Mark 23 | 38 | 37 | 13 | 7 | 70 |
-| 6"/47 cal Mark 16 D | 36 | 33 | 13 | 5 | 144 |
+| AA Gun | Max @ 100 | Golden | Max @ 0 | Limit @ 0 |
+| ------ | --------- | ------ | ------- | --------- |
+| 3"/70 cal Mark 23 | 38 | 37 | 13 | 7 |
+| 6"/47 cal Mark 16 D | 36 | 33 | 13 | 5 |
 
 ### Royal Navy
 | AA Gun | Max @ 100 | Golden | Max @ 0 | Limit @ 0 |
@@ -21,9 +21,9 @@
 ### Kriegsmarine
 | AA Gun | Max @ 100 | Golden | Max @ 0 | Limit @ 0 |
 | ------ | --------- | ------ | ------- | --------- |
-| 3.46"/76 SK C/32 | 36 | 35 | ? | 7 |
-| 4.1"/65 SK C/33 A | 34 | 33 | ? | 6 |
-| 5"/61 KM 40 | 33 | 32 | 11 | 5 |
+| 3.46"/76 SK C/32 | 36 | 35 | 14 | 7 |
+| 4.1"/65 SK C/33 A | 34 | 33 | 13 | 6 |
+| 5"/61 KM 40 | 33 | (32,33) | 11 | 5 |
 
 ### Imperial Navy
 | AA Gun | Max @ 100 | Golden | Max @ 0 | Limit @ 0 |
@@ -35,15 +35,15 @@
 ### Marine Nationale
 | AA Gun | Max @ 100 | Golden | Max @ 0 | Limit @ 0 |
 | ------ | --------- | ------ | ------- | --------- |
-| 3.5“/50 cal Model 1929 A | 26 | 25 | 10 | 4 |
+| 3.5“/50 cal Model 1929 A | 26 | (24,25] | 10 | 4 |
 | 5.1"/45 cal Model 1932 A | 35 | 34 | 14 | 7 |
 | 6"/55 cal Model 1930 | 33 | 31 | ? | 4 |
 
 ### Soviet Navy
 | AA Gun | Max @ 100 | Golden | Max @ 0 | Limit @ 0 |
 | ------ | --------- | ------ | ------- | --------- |
-| 3.9"/50 "Minizini" | ? | 35 | ? | 7 |
-| 5.1"/45 SD-2 | 31 | 30 | 12 | 6 |
+| 3.9"/50 "Minizini" | 37 | 35 | 14 | 7 |
+| 5.1"/45 SD-2 | 31 | 30 | (12,13) | 6 |
 
 ### Regia Marina
 | AA Gun | Max @ 100 | Golden | Max @ 0 | Limit @ 0 |
