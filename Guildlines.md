@@ -115,3 +115,9 @@
 | EBB6 | Roma | 18"/50 Model 1943 | Unique | 80 | 3027 | 3527 |
 | BB6.5 | Impero | 16.5"/50 Model 1937 | Unique | 80 | 3047 | 3559 |
 | BB7 | Italia | 18"/50 Model 1941 | Unique | 80 | 3055 | Untested |
+
+### China Navy
+| Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
+| ----- | ----- | ----| ----- | --- | --------- | ------------------ |
+| BB4 | Yan Gong | 16"/45 cal Mark IV L | Light | 80 | 2843 | Untested |
+| BB5 | Ming Zhao | 18.89"/45 cal Model 1949 | Unique | 80 | 2945 | Untested |
