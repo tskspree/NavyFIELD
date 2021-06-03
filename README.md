@@ -1,5 +1,6 @@
 # NavyFIELD
-A Repository of Practical Data for Best Gaming Performance
+A Repository of Practical Data for Best Gaming Performance  
+大海战实战操作参考数据
 
 ## Main Gun Ranges 主炮射程
 These are guidelines of popular battleships/battlecruisers measured from extensive test firing with best-available FCS and typical main guns/shells. Check [this table](Guildlines.md) for details.  
