@@ -4,7 +4,7 @@
 - *Shell*: 炮弹
 - *FCS*: 火控
 - *Max Range*: 实战射程
-- *Night Battle Range*: 夜战射程
+- *Night Battle Range*: 夜战炮线
 
 ### U.S. Navy 美国 (花旗)
 | Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
