@@ -1,4 +1,4 @@
-### U.S. Navy
+### U.S. Navy 美国 (花旗)
 | Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | BB1 | Alaska | 12"/50 cal Mark 8 | Light | 75 | Untested | 2868 |
@@ -15,7 +15,7 @@
 | BB6.5 | Oklahoma | 18"/48 cal Mark 3 | Unique | 80 | 3088 | 3598 |
 | BB7 | Connecticut | 18"/48 cal Mark 3 Mod 1 | Unique | 80 | 3110 | 3618 |
 
-### Royal Navy
+### Royal Navy 英国 (雾都)
 | Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | BB2 | Queen Elizabeth | 15"/42 cal Mark III | Light | 75 | 2782 | Untested |
@@ -34,7 +34,7 @@
 | BB6.5 | Conqueror | 18"/45 Marks II | Unique | 80 | 3046 | Untested |
 | BB7 | King George VI | 18"/50 Mark III | Unique | 80 | 3086 | Untested |
 
-### Kriegsmarine
+### Kriegsmarine 德国 (铁血)
 | Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | KM_Andria Doria | 12.6"/44 Model 1936 | Unique | 78 | 2728 | 3220 |
@@ -53,7 +53,7 @@
 | BB6.5 | J44 Class | 18"/45 SK C/34b | Unique | 80 | 3110 | Untested |
 | BB7 | Admiral Scheer | 20"/45 SK C/40b | Unique | 80 | 3132 | Untested |
 
-### Imperial Navy
+### Imperial Navy 日本 (樱花)
 | Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | B65 Project | 12.2"/50 Model 1940 | Unique | 75 | 2750 | 3200 |
@@ -69,7 +69,7 @@
 | BB6.5 | Yamato (1945) | 18.1"/45 Type 95 | Unique | 80 | 3060 | Untested |
 | BB7 | Izmi | 20.5"/45 Type 98C | Unique | 80 | 3090 | Untested |
 
-### Marine Nationale
+### Marine Nationale 法国 (凯旋)
 | Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | MN_Dunkerque | 12.2"/50 Model 1940 | Unique | 80 | 2727 | Untested |
@@ -85,7 +85,7 @@
 | BB6.5 | Bourgogne | 18.89"/45 cal Model 1938 | Unique | 80 | 3019 | 3535 |
 | BB7 | Versailles | 18.89"/45 cal Model 1945 II | Unique | 80 | 3021 | Untested |
 
-### Soviet Navy
+### Soviet Navy 苏联 (乌拉)
 | Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | SN_Sevastopol | 12"/52 Pattern 1907 | Unique | 77 | 2713 | Untested |
@@ -100,7 +100,7 @@
 | BB6.5 | Sovietsky Spiral | 16" Vickers Pattern B | Unique | 80 | 3100 | Untested |
 | BB7 | Krasnaya ploshchad | 18.1"/50 "Kremlin" | Unique | 80 | 3116 | Untested |
 
-### Regia Marina
+### Regia Marina 意大利 (撒丁)
 | Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | RM_Andria Doria | 12.6"/44 Model 1936 | Unique | 76 | 2727 | Untested |
@@ -116,7 +116,7 @@
 | BB6.5 | Impero | 16.5"/50 Model 1937 | Unique | 80 | 3047 | 3559 |
 | BB7 | Italia | 18"/50 Model 1941 | Unique | 80 | 3055 | Untested |
 
-### China Navy
+### China Navy 中国 (炎黄)
 | Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | BB4 | Yan Gong | 16"/45 cal Mark IV L | Light | 80 | 2843 | Untested |
