@@ -26,6 +26,7 @@
 ### Royal Navy 英国 (雾都)
 | Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
+| PCA | Furious | 15"/45 cal Mark II | Light | 75 | 2464 | Untested |
 | BB2 | Queen Elizabeth | 15"/42 cal Mark III | Light | 75 | 2782 | Untested |
 | PBB1 | RN_Dunkerque | 13"/50 Model 1931 | Unique | 80 | 2728 | 3208 |
 | BB3 | King George V | 14"/45 Mark III | Light | 75 | 2484 | Untested |
