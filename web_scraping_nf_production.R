@@ -76,10 +76,8 @@ hof_data <- as.data.frame(lapply(hof_data, function(x) {
   gsub("\u00A0", "", x) 
 })) 
 
-keyword1 <- "/.*"
-hof_data$wins <- sub(keyword1, "", hof_data$wins_total)
-keyword2 <- ".*/"
-hof_data$battles <- sub(keyword2, "", hof_data$wins_total)
+hof_data$wins <- sub("/.*", "", hof_data$wins_total)
+hof_data$battles <- sub(".*/", "", hof_data$wins_total)
 
 hof_clean <- subset(hof_data, select = c(id, fleet:battles))
 
