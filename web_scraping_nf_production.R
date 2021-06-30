@@ -21,7 +21,7 @@ pattern_names <- c("id",
                    "squad")
 
 cores=detectCores()
-cl <- makeCluster(cores[1]-1) #not to overload your computer
+cl <- makeCluster(cores[1]-1)
 registerDoParallel(cl)
 
 scraper <- function(page){
@@ -89,7 +89,6 @@ nf_data <- rbind(rank_data, hof_clean)
 nf_data$id <- trimws(nf_data$id, which = c("both"))
 nf_data$fleet <- trimws(nf_data$fleet, which = c("both"))
 nf_data$squad <- trimws(nf_data$squad, which = c("both"))
-
 nf_data$wins <- as.numeric(gsub(",", "", as.character(nf_data$wins)))
 nf_data$battles <- as.numeric(gsub(",", "", as.character(nf_data$battles)))
 
