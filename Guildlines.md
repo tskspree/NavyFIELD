@@ -35,7 +35,7 @@
 | BB4 | Lion I | 16"/45 cal Mark IV L | Light | 80 | 2842 | Untested |
 | BB4 | Vangurad | 15"/42 cal Mark IV L | Light | 80 | 2898 | 3386 |
 | EBB4 | Vanguard(1946) | 15"/42 cal RP12 SL | Unique | 80 | 2898 | 3386 |
-| EBB4.5 | Temeraire | 18" Mark II H-2 | Unique | 80 | 2958 | 3436 |
+| EBB4.5 | Temeraire | 18" Mark II BL | Unique | 80 | 2958 | 3436 |
 | BB5 | Lion II | 18"/45 Mark II | Unique | 80 | 2960 | 3436 |
 | EBB5 | Duke of Edinburgh | 18" Mark II H-2 | Unique | 80 | 2958 | 3436 |
 | EBB5.5 | Duke of Cornwall | 18" Mark II BL | Unique | 80 | 2960 | 3436 |
