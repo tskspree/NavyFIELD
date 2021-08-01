@@ -8,7 +8,7 @@
 | AA Gun | Max @ 100 | Golden | Max @ 0 | Limit @ 0 |
 | ------ | --------- | ------ | ------- | --------- |
 | 3"/70 cal Mark 23 | 38 | 37 | 13 | 7 |
-| 6"/47 cal Mark 16 D | 36 | 33 | 13 | 5 |
+| 6"/47 cal Mark 16 A | 36 | 33 | 13 | 5 |
 
 ### Royal Navy 英国 (雾都)
 | AA Gun | Max @ 100 | Golden | Max @ 0 | Limit @ 0 |
