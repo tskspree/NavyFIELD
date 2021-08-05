@@ -6,6 +6,7 @@
 
 ### U.S. Navy 美国 (花旗)
 | AA Gun | Max @ 100 | Golden | Max @ 0 | Limit @ 0 |
+| AA Gun | Max @ 100 | Golden | Max @ 0 | Limit @ 0 |
 | ------ | --------- | ------ | ------- | --------- |
 | 3"/70 cal Mark 23 | 38 | 37 | 13 | 7 |
 | 3"/70 cal Mark 23 A | 41 | 39 | 14 | 7 |
