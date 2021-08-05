@@ -8,7 +8,7 @@ These are guidelines of popular battleships/battlecruisers measured from extensi
 
 ## AA Gun Angles 防空炮角度
 These are the boundaries of popular AA gun angles, including: angles at maximum range when planes are at 100 attitude, default angles when planes are at 100 attitude (a.k.a. golden angle), angles at maximum range when planes are at 0 attitude, maximum angles when planes are extremely close to the ship at 0 attitude. Check [this table](AA_Angle.md) for details.  
-以上表格含有主流防空炮的四个重要实战参数：最远距离攻击满高度飞机时的角度，最高效率攻击满高度飞机时的角度(即黄金角)，最远距离攻击贴海飞机时的角度，攻击贴海近身的飞机不应超过的最大角度。
+以上[表格](AA_Angle.md)含有主流防空炮的四个重要实战参数：最远距离攻击满高度飞机时的角度，最高效率攻击满高度飞机时的角度(即黄金角)，最远距离攻击贴海飞机时的角度，攻击贴海近身的飞机不应超过的最大角度。
 
 ## Submarine Torpedo Reload 潜艇鱼雷装填时间
 The reload time of the torpedo launchers is not available on the navyfield.com website. Find the list of all nations on [this table](Submarine.md).  
