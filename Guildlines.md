@@ -59,7 +59,7 @@
 | EBB5 | Stresemann | 20"/48 KL-00 | Unique | 80 | 2972 | 3500 |
 | EBB5.5 | K39 Class | 20"/48 KL-00 | Unique | 80 | 2972 | 3500 |
 | BB6 | Kaiser | 20"/45 SK C/40 | Unique | 80 | 3094 | 3620 |
-| EBB6 | Kaiser | 20"/45 KC-WW | Unique | 80 | 3094 | 3620 |
+| EBB6 | Koenig Albert | 20"/45 KC-WW | Unique | 80 | 3094 | 3620 |
 | BB6.5 | J44 Class | 18"/45 SK C/34b | Unique | 80 | 3110 | Untested |
 | BB7 | Admiral Scheer | 20"/45 SK C/40b | Unique | 80 | 3132 | Untested |
 
