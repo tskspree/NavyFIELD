@@ -60,7 +60,7 @@
 | EBB5.5 | K39 Class | 20"/48 KL-00 | Unique | 80 | 2972 | 3500 |
 | BB6 | Kaiser | 20"/45 SK C/40 | Unique | 80 | 3094 | 3620 |
 | EBB6 | Koenig Albert | 20"/45 KC-WW | Unique | 80 | 3094 | 3620 |
-| BB6.5 | J44 Class | 18"/45 SK C/34b | Unique | 80 | 3110 | Untested |
+| BB6.5 | J44 Class | 18"/45 SK C/34b | Unique | 80 | 3108-3110 | Untested |
 | BB7 | Admiral Scheer | 20"/45 SK C/40b | Unique | 80 | 3132 | Untested |
 
 ### Imperial Navy 日本 (樱花)
@@ -92,7 +92,7 @@
 | EBB5 | Thermidor | 18.89"/45 cal Model 1942 | Unique | 80 | 2931 | 3449 |
 | BB6 | Charlemagne | 18.89"/45 cal Model 1945 | Unique | 80 | 3011 | 3525 |
 | EBB6 | Clemenceau (1943) | 18.89"/45 cal Model 1944 | Unique | 80 | 3011 | 3525 |
-| BB6.5 | Bourgogne | 18.89"/45 cal Model 1938 | Unique | 80 | 3019 | 3535 |
+| BB6.5 | Bourgogne | 18.89"/45 cal Model 1938 | Unique | 80 | 3015-3017 | 3535 |
 | BB7 | Versailles | 18.89"/45 cal Model 1945 II | Unique | 80 | 3021 | Untested |
 
 ### Soviet Navy 苏联 (乌拉)
