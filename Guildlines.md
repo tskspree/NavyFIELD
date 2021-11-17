@@ -73,7 +73,7 @@
 | EBB4 | Musashi | 18.1"/45 Type 94 L | Light | 80 | 2910 | 3400 |
 | EBB4.5 | Shinano | 20.1"/45 A-150 | Unique | 80 | 2966 | 3448 |
 | BB5 | Super Yamato | 18.9"/45 Type 5 | Unique | 80 | 2958 | 3438 |
-| EBB5 | Mikawa | 18.9" SD-799 | Unique | 80 | 2960 | 3440 |
+| EBB5 | Mikawa | 18.9" SD-799 | Unique | 80 | 2958-2960 | 3440 |
 | BB6 | Amagi | 20.5"/45 Type 98B | Unique | 80 | 3046 | 3530 |
 | EBB6 | Atago | 20.5"/45 K-1942 | Unique | 80 | 3046 | 3530 |
 | BB6.5 | Yamato (1945) | 18.1"/45 Type 95 | Unique | 80 | 3060 | Untested |
@@ -88,7 +88,7 @@
 | BB4 | Richelieu | 14.96"/45 cal Model 1935 | Light | 80 | 2857 | 3375 |
 | PBB3 | Richelieu (1951) | 14.96"/45 cal Model 1935 | Light | 80 | 2857 | 3375 |
 | EBB4.5 | Jean Bart | 18.89"/45 cal Model 1942 | Unique | 80 | 2931 | 3449 |
-| BB5 | Alsace | 18.89"/45 cal Model 1936 | Unique | 80 | 2931 | 3449 |
+| BB5 | Alsace | 18.89"/45 cal Model 1936 | Unique | 80 | 2929-2931 | 3449 |
 | EBB5 | Thermidor | 18.89"/45 cal Model 1942 | Unique | 80 | 2931 | 3449 |
 | BB6 | Charlemagne | 18.89"/45 cal Model 1945 | Unique | 80 | 3011 | 3525 |
 | EBB6 | Clemenceau (1943) | 18.89"/45 cal Model 1944 | Unique | 80 | 3011 | 3525 |
