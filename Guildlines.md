@@ -123,7 +123,7 @@
 | EBB5 | Cesare Borgia | 16.5"/50 Model 1945 | Unique | 78 | 2941 | 3438 |
 | BB6 | Progetto UP41 | 18"/50 Model 1934 | Unique | 80 | 3027 | 3527 |
 | EBB6 | Roma | 18"/50 Model 1943 | Unique | 80 | 3027 | 3527 |
-| BB6.5 | Impero | 16.5"/50 Model 1937 | Unique | 80 | 3047 | 3559 |
+| BB6.5 | Impero | 16.5"/50 Model 1937 | Unique | 80 | 3045 | 3559 |
 | BB7 | Italia | 18"/50 Model 1941 | Unique | 80 | 3055 | Untested |
 
 ### China Navy 中国 (炎黄)
