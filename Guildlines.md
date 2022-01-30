@@ -51,6 +51,7 @@
 | BB3 | O Project II | 14.96"/52 SK C/34o L | Light | 78 | 2782 | 3282 |
 | BB3 | Bismarck | 14.96"/52 SK C/34b L | Light | 78 | 2818 | Untested |
 | EBB3 | Bismarck (1943) | 14.96"/52 SK C/34o L | Light | 78 | 2782 | 3282 |
+| EBB3.5 | Prinz Eugen (1942) | 14.96"/52 SK C/34 F | Light | 78 | 2902 | Untested |
 | PBB2 | Scharnhorst (1942) | 14.96"/52 SK C/34 S | Unique | 80 | 2914 | Untested |
 | BB4 | H39 Class | 16"/52 SK C/34 L | Light | 80 | 2934 | Untested |
 | EBB4 | H41 Project | 16"/52 SK C/34 L | Light | 80 | 2934 | Untested |
