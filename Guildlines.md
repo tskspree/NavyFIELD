@@ -7,7 +7,7 @@
 - *Night Battle Range*: 夜战炮线
 
 ### U.S. Navy 美国 (花旗)
-| Class | Ship  | Main Gun | Shell | FCS | Max Range | Night Battle Range |
+| Class | Ship  | Main Gun | Shell | FCS | Max Range Guideline | Night Battle Max Range Guideline |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | BB1 | Alaska | 12"/50 cal Mark 8 | Light | 75 | Untested | 2868 |
 | EBB1 | New York | 14"/45 cal Mark 12 | Unique | 75 | 2556 | Untested |
