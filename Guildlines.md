@@ -88,9 +88,9 @@
 | EBB3.5 | Lyon (1943) | 13.4"/45 cal Model 1928 | Unique | 80 | 2875 | Untested |
 | BB4 | Richelieu | 14.96"/45 cal Model 1935 | Light | 80 | 2857 | 3375 |
 | PBB3 | Richelieu (1951) | 14.96"/45 cal Model 1935 | Light | 80 | 2857 | 3375 |
-| EBB4.5 | Jean Bart | 18.89"/45 cal Model 1942 | Unique | 80 | 2931 | 3449 |
-| BB5 | Alsace | 18.89"/45 cal Model 1936 | Unique | 80 | 2929-2931 | 3449 |
-| EBB5 | Thermidor | 18.89"/45 cal Model 1942 | Unique | 80 | 2931 | 3449 |
+| EBB4.5 | Jean Bart | 18.89"/45 cal Model 1942 | Unique | 80 | 2931-2933 | 3449 |
+| BB5 | Alsace | 18.89"/45 cal Model 1936 | Unique | 80 | 2931-2933 | 3449 |
+| EBB5 | Thermidor | 18.89"/45 cal Model 1942 | Unique | 80 | 2931-2933 | 3449 |
 | BB6 | Charlemagne | 18.89"/45 cal Model 1945 | Unique | 80 | 3011 | 3525 |
 | EBB6 | Clemenceau (1943) | 18.89"/45 cal Model 1944 | Unique | 80 | 3011 | 3525 |
 | BB6.5 | Bourgogne | 18.89"/45 cal Model 1938 | Unique | 80 | 3015-3017 | 3535 |
