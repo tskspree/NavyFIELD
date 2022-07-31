@@ -145,4 +145,3 @@ Source: trainworld.us
 | 123 | 3288900 |
 | 124 | 3617790 |
 | 125 | 61867430 |
-![image](https://user-images.githubusercontent.com/19799318/182047390-0ef4a158-ab13-4946-8e47-d36ee29ff197.png)
