@@ -62,7 +62,7 @@
 | BB6 | Kaiser | 20"/45 SK C/40 | Unique | 80 | 3094-3096 | 3620 |
 | EBB6 | Koenig Albert | 20"/45 KC-WW | Unique | 80 | 3094-3096 | 3620 |
 | BB6.5 | J44 Class | 18"/45 SK C/34b | Unique | 80 | 3108-3110 | Untested |
-| BB7 | Admiral Scheer | 20"/45 SK C/40b | Unique | 80 | 3132 | Untested |
+| BB7 | Admiral Scheer | 20"/45 SK C/40b | Unique | 80 | 3130-3132 | Untested |
 
 ### Imperial Navy 日本 (樱花)
 | Class | Ship  | Main Gun | Shell | FCS | Max Range Guideline | Night Battle Max Range Guideline |
