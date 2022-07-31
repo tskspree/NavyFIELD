@@ -14,10 +14,10 @@ These are the boundaries of popular AA gun angles, including: angles at maximum 
 The reload time of the torpedo launchers is not available on the navyfield.com website. Find the list of all nations on [this table](Submarine.md).  
 [表格](Submarine.md)列出所有国家潜艇的鱼雷发射器装填时间。
 
-## Experience Gain
+## Experience Gain 经验相关
 Sailor experience gain varies by ship type, attack score, team attack score, and boolean value of team-killing. [This table](Exp.md) in addition summarizes the percentage of experience gain by sailor-ship level difference, ceteris paribus. Credits to trainworld.us (source of data).  
 水兵等级，船只等级和经验获取比例的关系[总表和简图](Exp.md)。
 
-## China Navy Sailor Tree
+## China Navy Sailor Tree 炎黄水兵树
 Since the release of the nation, the sailor tree has never been published. [Here](CN_sailor_tree.md) is a trial version for reference.  
 临时版本的[中国水兵升级树](CN_sailor_tree.md)，目前缺失三转维修长的等级数据。
