@@ -18,7 +18,7 @@
 Source: trainworld.us
 
 **Experience Chart 经验表**
-| Lvl 等级| To next Level 下一级所需经验|
+| Lvl 等级| To next Lvl 下一级所需经验|
 |-|-|
 | 1 | 150 |
 | 2 | 180 |
