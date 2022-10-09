@@ -114,6 +114,7 @@
 ### Regia Marina 意大利 (撒丁)
 | Class | Ship  | Main Gun | Shell | FCS | Max Range Guideline | Night Battle Max Range Guideline |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
+| BB1 | Regina Margherita | 10"/45 Model 1908 | Light | 74 | 2614 | Untested |
 | PBB1 | RM_Andria Doria | 12.6"/44 Model 1936 | Unique | 76 | 2727 | Untested |
 | BB2 | Caio Duilio (1915) | 12"/45 K10 | Light | 76 | 2735 | Untested |
 | BB2 | Conte di Cavour (1915) | 12"/45 K10 | Light | 76 | 2735 | Untested |
