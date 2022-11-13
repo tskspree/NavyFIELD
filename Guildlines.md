@@ -21,7 +21,7 @@
 | BB6 | Nebraska | 18"/48 cal Mark 2 | Unique | 80 | 3064 | 3572 |
 | EBB6 | New Jersey | 18"/48 cal BD-119 | Unique | 80 | 3064 | 3572 |
 | BB6.5 | Oklahoma | 18"/48 cal Mark 3 | Unique | 80 | 3088 | 3598 |
-| BB7 | Connecticut | 18"/48 cal Mark 3 Mod 1 | Unique | 80 | 3110 | 3618 |
+| BB7 | Connecticut | 18"/48 cal Mark 3 Mod 1 | Unique | 80 | 3106-3108 | 3618 |
 
 ### Royal Navy 英国 (雾都)
 | Class | Ship  | Main Gun | Shell | FCS | Max Range Guideline | Night Battle Max Range Guideline |
