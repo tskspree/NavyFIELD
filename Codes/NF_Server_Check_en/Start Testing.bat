@@ -1,0 +1,1 @@
+start cmd.exe /k NF_Server_Check_en.exe
