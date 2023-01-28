@@ -68,8 +68,9 @@
 | Class | Ship  | Main Gun | Shell | FCS | Max Range Guideline | Night Battle Max Range Guideline |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | PBB1 | B65 Project | 12.2"/50 Model 1940 | Unique | 75 | 2750 | 3200 |
+| BB2 | Ise(1943) | 14"/45 Type 43A | Light | 75 | 2500 | Untested |
 | EBB3 | Mutsu | 16.1"/45 Type 90 L | Light | 80 | 2796 | 3276 |
-| EBB3.5 | Ashitaka | 14.2"/45 Type 6 | Unique | 75 | 2902 | 3384 |
+| EBB3.5 | Ashitaka | 14.2"/45 Type 6 | Unique | 80 | 2902 | 3384 |
 | BB4 | Yamato | 18.1"/45 Type 94 L | Light | 80 | 2910 | 3400 |
 | EBB4 | Musashi | 18.1"/45 Type 94 L | Light | 80 | 2910 | 3400 |
 | EBB4.5 | Shinano | 20.1"/45 A-150 | Unique | 80 | 2966 | 3448 |
