@@ -132,5 +132,6 @@
 ### China Navy 中国 (炎黄)
 | Class | Ship  | Main Gun | Shell | FCS | Max Range Guideline | Night Battle Max Range Guideline |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
+| BB3 | JingHaiHou | 15"/42 cal Mark III | Light | 80 | 2779 | Untested |
 | BB4 | Yan Gong | 16"/45 cal Mark IV L | Light | 80 | 2843 | Untested |
 | BB5 | Ming Zhao | 18.89"/45 cal Model 1949 | Unique | 80 | 2945 | Untested |
