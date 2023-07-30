@@ -119,6 +119,7 @@
 | PBB1 | RM_Andria Doria | 12.6"/44 Model 1936 | Unique | 76 | 2727 | Untested |
 | BB2 | Caio Duilio (1915) | 12"/45 K10 | Light | 76 | 2735 | Untested |
 | BB2 | Conte di Cavour (1915) | 12"/45 K10 | Light | 76 | 2735 | Untested |
+| EBB3.5 | Fr.Morosini | 13.5"/44 Model 1931T"ND" | Unique | 76 | 2869 | Untested |
 | BB4 | Caio Duilio (1937) | 12.6"/44 Model 1934 | Light | 76 | 2895 | 3405 |
 | BB4 | Conte di Cavour (1940) | 12.6"/44 Model 1934 | Light | 76 | 2895 | 3405 |
 | PBB2 | Italy Project41-B | 12.6"/44 Model 1934 | Light | 80 | 2895 | 3405 |
