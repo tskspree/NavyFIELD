@@ -95,7 +95,7 @@
 | BB6 | Charlemagne | 18.89"/45 cal Model 1945 | Unique | 80 | 3011 | 3525 |
 | EBB6 | Clemenceau (1943) | 18.89"/45 cal Model 1944 | Unique | 80 | 3011 | 3525 |
 | BB6.5 | Bourgogne | 18.89"/45 cal Model 1938 | Unique | 80 | 3015-3017 | 3535 |
-| BB7 | Versailles | 18.89"/45 cal Model 1945 II | Unique | 80 | 3021 | Untested |
+| BB7 | Versailles | 18.89"/45 cal Model 1945 II | Unique | 80 | 3021-3023 | Untested |
 
 ### Soviet Navy 苏联 (乌拉)
 | Class | Ship  | Main Gun | Shell | FCS | Max Range Guideline | Night Battle Max Range Guideline |
