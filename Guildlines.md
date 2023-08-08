@@ -117,7 +117,7 @@
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
 | BB1 | Regina Margherita | 10"/45 Model 1908 | Light | 74 | 2614 | Untested |
 | PBB1 | RM_Andria Doria | 12.6"/44 Model 1936 | Unique | 76 | 2727 | Untested |
-| BB2 | Caio Duilio (1915) | 12"/45 K10 | Light | 76 | 2735 | Untested |
+| BB2 | Caio Duilio (1915) | 12"/46 Model 1909 | Light | 76 | 2701-2703 | Untested |
 | BB2 | Conte di Cavour (1915) | 12"/45 K10 | Light | 76 | 2735 | Untested |
 | EBB3.5 | Fr.Morosini | 13.5"/44 Model 1931T"ND" | Unique | 76 | 2869 | Untested |
 | BB4 | Caio Duilio (1937) | 12.6"/44 Model 1934 | Light | 76 | 2895 | 3405 |
