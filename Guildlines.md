@@ -84,6 +84,7 @@
 ### Marine Nationale 法国 (凯旋)
 | Class | Ship  | Main Gun | Shell | FCS | Max Range Guideline | Night Battle Max Range Guideline |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
+| PCA | Mandel | 12"/45 cal Model 1910 | Unique | 70 | 2365 | Untested |
 | PBB1 | MN_Dunkerque | 12.2"/50 Model 1940 | Unique | 80 | 2727 | Untested |
 | EBB2 | Le Havre | 12"/45 cal Model 1906 | Light | 75 | 2786 | Untested |
 | EBB3.5 | Lyon (1943) | 13.4"/45 cal Model 1928 | Unique | 80 | 2875 | Untested |
