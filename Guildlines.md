@@ -101,8 +101,8 @@
 ### Soviet Navy 苏联 (乌拉)
 | Class | Ship  | Main Gun | Shell | FCS | Max Range Guideline | Night Battle Max Range Guideline |
 | ----- | ----- | ----| ----- | --- | --------- | ------------------ |
-| PCA | SN_Sevastopol | 10"/50 Pattern 1908 | Unique | 74 | 2448 | Untested |
-| PBB1 | Petropavlovsk | 12"/52 Pattern 1907 | Unique | 77 | 2713 | Untested |
+| PCA | Petropavlovsk | 10"/50 Pattern 1908 | Unique | 74 | 2448 | Untested |
+| PBB1 | SN_Sevastopol | 12"/52 Pattern 1907 | Unique | 77 | 2713 | Untested |
 | BB3 | Kronshtadt | 12"/55 B-50 Pattern 1940 | Light | 77 | 2753 | Untested |
 | BB4 | Starlingrad | 16"/45 Pattern 1914 | Light | 80 | 2928 | 3444 |
 | EBB4 | Starlingrad (1953) | 16"/45 Pattern 1914 | Light | 80 | 2928 | 3444 |
